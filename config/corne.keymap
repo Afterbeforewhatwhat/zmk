@@ -33,11 +33,6 @@
       bindings = <&kp LA(TAB)>;
       key-positions = <0 38>;
     };
-
-    new_combo {
-      bindings = <&trans>;
-      key-positions = <>;
-    };
   };
 
   macros {
