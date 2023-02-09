@@ -100,10 +100,10 @@
 
     Layer__3 {
       bindings = <
-&none  &trans  &kp Q   &kp W      &kp E  &kp R    &trans  &trans  &trans  &trans  &trans  &none
-&none  &trans  &kp A   &kp S      &kp D  &kp F    &trans  &trans  &trans  &trans  &trans  &none
-&none  &trans  &kp Z   &kp X      &kp C  &kp V    &trans  &trans  &trans  &trans  &trans  &none
-                      &trans  &kp SPACE    &mt    &trans  &trans  &trans
+&none  &trans  &kp Q   &kp W      &kp E   &kp R    &trans  &trans  &trans  &trans  &trans  &none
+&none  &trans  &kp A   &kp S      &kp D   &kp F    &trans  &trans  &trans  &trans  &trans  &none
+&none  &trans  &kp Z   &kp X      &kp C   &kp V    &trans  &trans  &trans  &trans  &trans  &none
+                      &trans  &kp SPACE  &trans    &trans  &trans  &trans
       >;
     };
   };
