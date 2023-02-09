@@ -43,7 +43,12 @@
 
     tab {
       bindings = <&kp TAB>;
-      key-positions = <13 14>;
+      key-positions = <14 13>;
+    };
+
+    new_combo {
+      bindings = <&kp LA(TAB)>;
+      key-positions = <37 13>;
     };
   };
 
