@@ -50,6 +50,7 @@
     alttab {
       bindings = <&kp LA(TAB)>;
       key-positions = <37 13>;
+      timeout-ms = <20>;
     };
   };
 
